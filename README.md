@@ -1,8 +1,6 @@
 # 💫 Hi, I'm Devjyoti:
 🔭 I’m an aspiring Engineer, innovator, and coder.<br>👯 Experienced in Front-end Development, and enthusiastic in Full Stack Development with intermediate skills in AI & Web3.<br>🌱 Currently exploring and learning domains of Web Development, WEB3, Artificial Intelligence and Data Science.<br>🎓 CSE 2026<br>🌟 Navigating the infinite sea of code
 
-![](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)
-
 <p align="center">
   <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="animated" />
 </p>
